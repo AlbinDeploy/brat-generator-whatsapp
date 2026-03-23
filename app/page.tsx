@@ -1,5 +1,2 @@
 import { BratStudio } from '@/components/brat-studio';
-
-export default function HomePage() {
-  return <BratStudio />;
-}
+export default function Page() { return <BratStudio />; }
